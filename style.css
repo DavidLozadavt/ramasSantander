@@ -1,0 +1,16 @@
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+.container {
+    max-width: 2000px; /* Define el ancho máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor en la página */
+    padding: 80px; /* Añade relleno alrededor del contenido dentro del contenedor */
+    background-color: #f4f4f4; /* Color de fondo del contenedor */
+    border: 1px solid #ddd; /* Añade un borde al contenedor */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra al contenedor */
+    font-size: 30px;
+    color:gray;
+}
